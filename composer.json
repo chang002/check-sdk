@@ -1,0 +1,18 @@
+{
+    "name": "chang002/check-sdk",
+    "description": "baidu",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chang002\\CheckSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chang002",
+            "email": "93180937+chang002@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
